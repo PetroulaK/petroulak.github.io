@@ -1,2 +1,1 @@
-# petroulak.github.io
-Petroula Kostofska Home Page
+Petroula Kostofska Home Page is petroulak.github.io
